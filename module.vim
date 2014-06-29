@@ -13,7 +13,6 @@ let g:startify_skiplist = [
 let g:startify_list_order = [
     \ [' recent:'],
     \ 'dir',
-    \ 'files',
     \ [' sessions:'],
     \ 'sessions',
 \ ]
