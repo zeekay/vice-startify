@@ -36,4 +36,4 @@ let g:startify_custom_footer = [
     \ "      \\_/ |_| \\___/\\____\\ ",
 \ ]
 
-let g:startify_statusline=''
+let g:startify_statusline=0
