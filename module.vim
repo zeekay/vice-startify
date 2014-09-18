@@ -1,4 +1,4 @@
-call vice#Register('github:zeekay/vim-startify')
+call vice#Register('github:mhinz/vim-startify')
 
 let g:startify_change_to_vcs_root = 1
 let g:startify_relative_path = 1
