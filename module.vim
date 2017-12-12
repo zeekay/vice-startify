@@ -23,14 +23,13 @@ let g:startify_list_order = [
 " hi StartifySlash ctermfg=240
 " hi StartifySpecial ctermfg=240
 " hi StartifyHeader ctermfg=114
-" hi StartifyFooter ctermfg=240
 
 let g:startify_custom_header = []
 
 let g:startify_custom_footer = [
-    \ "          __",
-    \ "    __   _\\_\\ ___  ____",
-    \ "    \\ \\ / / |/ __\\/ __ \\",
-    \ "     \\ \\ /| |\\ \\__\\  __/",
-    \ "      \\_/ |_| \\___/\\____\\",
+    \ "       __",
+    \ " __   _\\_\\ ___  ____",
+    \ " \\ \\ / / |/ __\\/ __ \\",
+    \ "  \\ \\ /| |\\ \\__\\  __/",
+    \ "   \\_/ |_| \\___/\\____\\",
 \ ]
